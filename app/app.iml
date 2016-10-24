@@ -101,6 +101,7 @@
     </content>
     <orderEntry type="jdk" jdkName="Android API 19 Platform" jdkType="Android SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" exported="" name="amqp-client-3.6.5" level="project" />
     <orderEntry type="library" exported="" name="support-v4-19.1.0" level="project" />
     <orderEntry type="library" exported="" name="Parse-1.4.0" level="project" />
     <orderEntry type="library" exported="" name="android-android-19" level="project" />
