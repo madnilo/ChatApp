@@ -2,22 +2,103 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8413c27b45b7fe61dca4a98159f65e2cee215f5a">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.0_8ea03dacd369d47ac4196ae1cc82796142e0c2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-8.4.0_4b7301752cc8c026302ede275f7ab2cc2102b652\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fbfb1dc695a8016c6f3ee5452bde93b8ad088323">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_debb297414446c2993bc05bdd4c5c95443b339d8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4263c4e6e5449e1d4a8e1df8384a4c526da282bb">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_159edbec6e79302c87f9f3ed5db937ec7f06d483\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.4.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="65d086ee9daaf87b5af62ad24471edafa433354c">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-8.4.0_d86e172142ad79d678e3e79c71d3c166a704f25c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\.gradle\caches\modules-2\files-2.1\com.rabbitmq\amqp-client\3.6.5\59e11141636ba2469a6fdd8c986d622480c3e239\amqp-client-3.6.5.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="59e11141636ba2469a6fdd8c986d622480c3e239">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\amqp-client-3.6.5_892fef92fb3dd43af6025d0bf5c69c87b8e3a043\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\Users\danil\StudioProjects\Chat\app\libs\Parse-1.4.0.jar"
-        jumboMode="false"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="1724acfaa5ad53f76aad702318391fed16cd98ca">
-        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\pre-dexed\debug\Parse-1.4.0_c53a243c50cc1919889a6776fd611958329bb063.jar" />
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\2\Parse-1.4.0_c53a243c50cc1919889a6776fd611958329bb063\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="C:\Users\danil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.4.0\jars\classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_b1120121ed8256c5003833c095a5723d3dd01ea0.jar" />
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-8.4.0_405a93bc0aabab78933de55bed844b539ed00731\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\libs\simple-xml-2.7.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="083623424bcfa03bd598e709765bad0816c2375d">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\2\simple-xml-2.7.1_5e77a31f140e89dd81989f27db14709d4260782c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bd336eeae661e8311330284897ee07f8ebaa297">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_1eac8ce8b6809d1246306d242967297124af9292\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\danil\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.0\support-annotations-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="990e7f98a7bad86a40b1f0bcfeb039023afd0839">
+        <dex dex="C:\Users\danil\StudioProjects\Chat\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.0_cda60f3618714a54ab6230367866d2feb4b398e4\classes.dex" />
     </item>
 
 </items>

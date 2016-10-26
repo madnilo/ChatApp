@@ -22,4 +22,6 @@ dependencies {
     compile 'com.android.support:support-v4:19.1.0'
     compile files('libs/Parse-1.4.0.jar')
     compile group: 'com.rabbitmq', name: 'amqp-client', version: '3.6.5'
+    compile 'com.google.android.gms:play-services-appindexing:8.4.0'
+    compile files('libs/simple-xml-2.7.1.jar')
 }

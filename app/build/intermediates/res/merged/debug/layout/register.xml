@@ -4,7 +4,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@color/white"
-    tools:context="com.chatt.Login" >
+    tools:context="com.chatt.demo.Login" >
 
     <LinearLayout
         android:layout_width="match_parent"
@@ -23,17 +23,7 @@
             android:layout_marginBottom="@dimen/pad_20dp"
             android:src="@drawable/logo_login" />
 
-        <EditText
-            android:id="@+id/email"
-            style="@style/editext_graybg"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:drawableLeft="@drawable/ic_username"
-            android:hint="@string/email"
-            android:inputType="textEmailAddress" >
 
-            <requestFocus />
-        </EditText>
 
         <EditText
             android:id="@+id/user"
@@ -43,25 +33,15 @@
             android:layout_marginTop="@dimen/pad_5dp"
             android:drawableLeft="@drawable/ic_username"
             android:hint="@string/username" >
+            <requestFocus />
         </EditText>
 
-        <EditText
-            android:id="@+id/pwd"
-            style="@style/editext_graybg"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_marginBottom="@dimen/pad_20dp"
-            android:layout_marginTop="@dimen/pad_5dp"
-            android:drawableLeft="@drawable/ic_pwd"
-            android:hint="@string/password"
-            android:inputType="textPassword" >
-        </EditText>
 
         <LinearLayout
             android:id="@+id/main"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:orientation="horizontal" >
+            android:orientation="vertical" >
 
             <Button
                 android:id="@+id/btnReg"
@@ -70,7 +50,19 @@
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="@dimen/pad_10dp"
                 android:layout_weight="1"
-                android:text="@string/register" />
+                android:text="@string/register"
+                android:layout_marginBottom="@dimen/pad_5dp"
+                android:layout_marginTop="@dimen/pad_5dp" />
+
+            <Button
+                style="@style/btn_white_large"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/RabbitMQ"
+                android:layout_marginLeft="@dimen/pad_10dp"
+                android:layout_weight="1"
+                android:id="@+id/btnRab" />
+
         </LinearLayout>
     </LinearLayout>
 

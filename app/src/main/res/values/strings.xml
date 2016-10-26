@@ -1,30 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name">Chatt</string>
+    <string name="app_name">Whatever</string>
     <string name="type_msg">Type message</string>    
     
 <string name="drawer_open">Open</string>
 <string name="drawer_close">Close</string>
-    
+
+    <string name="RabbitMQ">RabbitMQ</string>
+    <string name="mensagem">Sua mensagem...</string>
+    <string name="destinatario">fulano_username</string>
+    <string name="vai">Enviar</string>
     <string name="or">or</string>
     <string name="email">Email</string>
-    <string name="username">Username</string>
-    <string name="password">Password</string>
-    <string name="register">Register</string>
+    <string name="username">Usuário</string>
+    <string name="password">Senha</string>
+    <string name="register">Registrar</string>
     <string name="log_in">Log in</string>
-    <string name="forgot_my_pwd">I’ve forgotten my password?</string>
-    <string name="my_chats">My Chats</string>
-    <string name="all_chats">All Chats</string>
-    <string name="search">Search</string>
-    <string name="to">To:</string>
-    <string name="edit">Edit</string>
-    <string name="new_chat">New Chat</string>
-    <string name="alert_wait">Please wait...</string>
-    <string name="err_fields_empty">Please fill all the fields.</string>
+    <string name="forgot_my_pwd">Esqueci a senha!</string>
+    <string name="my_chats">Minhas Conversas</string>
+    <string name="all_chats">Todas as conversas</string>
+    <string name="search">Procurar</string>
+    <string name="to">Para:</string>
+    <string name="edit">Editar</string>
+    <string name="new_chat">Novo Chat</string>
+    <string name="alert_wait">Aguarde...</string>
+    <string name="err_fields_empty">Preencha o seu apelido corretamente!</string>
     <string name="err_singup">Error occurred while signup:</string>
     <string name="err_login">Error occurred while login:</string>
     <string name="err_users">Error occurred while finding users:</string>
 <string name="alert_loading">Loading...</string>
-<string name="msg_no_user_found">No users found for chat!</string>
+<string name="msg_no_user_found">Nenhum usuário encontrado!</string>
 </resources>

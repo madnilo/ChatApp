@@ -1,6 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
     <color name="black">#000000</color>
+    <color name="common_action_bar_splitter">#d2d2d2</color>
+    <color name="common_google_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_google_signin_btn_text_dark_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_dark_focused">@android:color/black</color>
+    <color name="common_google_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_google_signin_btn_text_light_default">#90000000</color>
+    <color name="common_google_signin_btn_text_light_disabled">#1F000000</color>
+    <color name="common_google_signin_btn_text_light_focused">#90000000</color>
+    <color name="common_google_signin_btn_text_light_pressed">#DE000000</color>
+    <color name="common_plus_signin_btn_text_dark_default">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_dark_focused">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_dark_pressed">@android:color/white</color>
+    <color name="common_plus_signin_btn_text_light_default">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_disabled">#FFAAAAAA</color>
+    <color name="common_plus_signin_btn_text_light_focused">#FF737373</color>
+    <color name="common_plus_signin_btn_text_light_pressed">#DE000000</color>
     <color name="gray_light">#e8e8e8</color>
     <color name="main_color_gray">#7d7d7d</color>
     <color name="main_color_gray_dk">#3b3b3b</color>
@@ -9,6 +26,20 @@
     <color name="transparent">#00000000</color>
     <color name="white">#ffffff</color>
     <color name="white_smoke">#F7F7F7</color>
+    <declare-styleable name="LoadingImageView"><attr format="enum" name="imageAspectRatioAdjust">
+            <enum name="none" value="0"/>
+            <enum name="adjust_width" value="1"/>
+            <enum name="adjust_height" value="2"/>
+        </attr><attr format="float" name="imageAspectRatio"/><attr format="boolean" name="circleCrop"/></declare-styleable>
+    <declare-styleable name="SignInButton"><attr format="reference|enum" name="buttonSize">
+            <enum name="standard" value="0"/>
+            <enum name="wide" value="1"/>
+            <enum name="icon_only" value="2"/>
+        </attr><attr format="reference|enum" name="colorScheme">
+            <enum name="dark" value="0"/>
+            <enum name="light" value="1"/>
+            <enum name="auto" value="2"/>
+        </attr><attr format="reference|string" name="scopeUris"/></declare-styleable>
     <dimen name="pad_10dp">10dp</dimen>
     <dimen name="pad_15dp">15dp</dimen>
     <dimen name="pad_20dp">20dp</dimen>
@@ -24,30 +55,66 @@
     <dimen name="txt_18sp">18sp</dimen>
     <dimen name="txt_20sp">20sp</dimen>
     <dimen name="txt_7sp">7sp</dimen>
+    <integer name="google_play_services_version">8487000</integer>
+    <string name="RabbitMQ">RabbitMQ</string>
     <string name="alert_loading">Loading...</string>
-    <string name="alert_wait">Please wait...</string>
-    <string name="all_chats">All Chats</string>
-    <string name="app_name">Chatt</string>
+    <string name="alert_wait">Aguarde...</string>
+    <string name="all_chats">Todas as conversas</string>
+    <string name="app_name">Whatever</string>
+    <string name="auth_google_play_services_client_facebook_display_name">Facebook</string>
+    <string name="auth_google_play_services_client_google_display_name">Google</string>
+    <string name="common_google_play_services_api_unavailable_text"><ns1:g id="app_name">%1$s</ns1:g> requires one or more Google Play services that are not currently available. Please contact the developer for assistance.</string>
+    <string msgid="2523291102206661146" name="common_google_play_services_enable_button">Enable Google Play services</string>
+    <string msgid="227660514972886228" name="common_google_play_services_enable_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t work unless you enable Google Play services.</string>
+    <string msgid="5122002158466380389" name="common_google_play_services_enable_title">Enable Google Play services</string>
+    <string msgid="7153882981874058840" name="common_google_play_services_install_button">Get Google Play services</string>
+    <string msgid="2122112764540849864" name="common_google_play_services_install_text_phone"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your phone.</string>
+    <string msgid="7351599665250191022" name="common_google_play_services_install_text_tablet"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are missing from your tablet.</string>
+    <string msgid="7215213145546190223" name="common_google_play_services_install_title">Get Google Play services</string>
+    <string name="common_google_play_services_invalid_account_text">The specified account does not exist on this device. Please choose a different account.</string>
+    <string name="common_google_play_services_invalid_account_title">Invalid Account</string>
+    <string name="common_google_play_services_network_error_text">A data connection is required to connect to Google Play services.</string>
+    <string name="common_google_play_services_network_error_title">Network Error</string>
+    <string name="common_google_play_services_notification_ticker">Google Play services error</string>
+    <string name="common_google_play_services_restricted_profile_text">Accessing accounts from a restricted profile is not supported.</string>
+    <string name="common_google_play_services_restricted_profile_title">Restricted Profile</string>
+    <string name="common_google_play_services_sign_in_failed_text">Error signing in the specified account. Please choose a different account.</string>
+    <string name="common_google_play_services_sign_in_failed_title">Sign in failed</string>
+    <string name="common_google_play_services_unknown_issue"><ns1:g id="app_name">%1$s</ns1:g> is having trouble with Google Play services. If the problem persists, please contact the developer for assistance.</string>
+    <string name="common_google_play_services_unsupported_text"><ns1:g id="app_name">%1$s</ns1:g> relies on Google Play services, which is not supported by your device. Contact the manufacturer for assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Google Play services</string>
+    <string msgid="6556509956452265614" name="common_google_play_services_update_button">Update</string>
+    <string msgid="9053896323427875356" name="common_google_play_services_update_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run unless you update Google Play services.</string>
+    <string msgid="6006316683626838685" name="common_google_play_services_update_title">Update Google Play services</string>
+    <string name="common_google_play_services_updating_text"><ns1:g id="app_name">%1$s</ns1:g> won\'t run without Google Play services, which are currently updating.</string>
+    <string name="common_google_play_services_updating_title">Google Play services are updating</string>
+    <string name="common_google_play_services_wear_update_text">New version of Google Play services needed. It will update itself shortly.</string>
+    <string name="common_open_on_phone">Open on phone</string>
+    <string name="common_signin_button_text">Sign in</string>
+    <string name="common_signin_button_text_long">Sign in with Google</string>
+    <string name="destinatario">fulano_username</string>
     <string name="drawer_close">Close</string>
     <string name="drawer_open">Open</string>
-    <string name="edit">Edit</string>
+    <string name="edit">Editar</string>
     <string name="email">Email</string>
-    <string name="err_fields_empty">Please fill all the fields.</string>
+    <string name="err_fields_empty">Preencha o seu apelido corretamente!</string>
     <string name="err_login">Error occurred while login:</string>
     <string name="err_singup">Error occurred while signup:</string>
     <string name="err_users">Error occurred while finding users:</string>
-    <string name="forgot_my_pwd">I’ve forgotten my password?</string>
+    <string name="forgot_my_pwd">Esqueci a senha!</string>
     <string name="log_in">Log in</string>
-    <string name="msg_no_user_found">No users found for chat!</string>
-    <string name="my_chats">My Chats</string>
-    <string name="new_chat">New Chat</string>
+    <string name="mensagem">Sua mensagem...</string>
+    <string name="msg_no_user_found">Nenhum usuário encontrado!</string>
+    <string name="my_chats">Minhas Conversas</string>
+    <string name="new_chat">Novo Chat</string>
     <string name="or">or</string>
-    <string name="password">Password</string>
-    <string name="register">Register</string>
-    <string name="search">Search</string>
-    <string name="to">To:</string>
+    <string name="password">Senha</string>
+    <string name="register">Registrar</string>
+    <string name="search">Procurar</string>
+    <string name="to">Para:</string>
     <string name="type_msg">Type message</string>
-    <string name="username">Username</string>
+    <string name="username">Usuário</string>
+    <string name="vai">Enviar</string>
     <style name="AppBaseTheme" parent="android:Theme.Holo.Light.DarkActionBar">
     </style>
     <style name="AppTheme" parent="AppBaseTheme">

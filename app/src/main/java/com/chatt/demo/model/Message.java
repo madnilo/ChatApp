@@ -1,8 +1,7 @@
 package com.chatt.demo.model;
 
+import java.text.SimpleDateFormat;
 import java.util.Date;
-
-import com.chatt.demo.UserList;
 
 /**
  * The Class Message is a Java Bean class that represents a single chat
@@ -10,138 +9,55 @@ import com.chatt.demo.UserList;
  */
 public class Message {
 
-    /**
-     * The Constant STATUS_SENDING.
-     */
-    public static final int STATUS_SENDING = 0;
-
-    /**
-     * The Constant STATUS_SENT.
-     */
-    public static final int STATUS_SENT = 1;
-
-    /**
-     * The Constant STATUS_FAILED.
-     */
-    public static final int STATUS_FAILED = 2;
-    /**
-     * The msg.
-     */
-    private String msg;
-
-    /**
-     * The status.
-     */
-    private int status = STATUS_SENT;
-
-    /**
-     * The date.
-     */
-    private Date date;
-
-    /**
-     * The sender.
-     */
     private String sender;
+    private String date;
+    private String time;
+    private String content;
 
-    /**
-     * Instantiates a new conversation.
-     *
-     * @param msg    the msg
-     * @param date   the date
-     * @param sender the sender
-     */
-    public Message(String msg, Date date, String sender) {
-        this.msg = msg;
-        this.date = date;
+    public Message(){
+        SimpleDateFormat onlyDate = new SimpleDateFormat("dd/MM/yyyy");
+        SimpleDateFormat onlyHours = new SimpleDateFormat("HH:mm:ss");
+        Date data = new Date();
+        this.date = onlyDate.format(data);
+        this.time = onlyHours.format(data);
+    }
+
+    public Message(String sender, String content) {
+        super();
+        SimpleDateFormat onlyDate = new SimpleDateFormat("dd/MM/yyyy");
+        SimpleDateFormat onlyHours = new SimpleDateFormat("HH:mm:ss");
+        Date data = new Date();
+
         this.sender = sender;
+        this.date = onlyDate.format(data);
+        this.time = onlyHours.format(data);
+        this.content = content;
     }
 
-    /**
-     * Instantiates a new conversation.
-     */
-    public Message() {
-    }
-
-    /**
-     * Gets the msg.
-     *
-     * @return the msg
-     */
-    public String getMsg() {
-        return msg;
-    }
-
-    /**
-     * Sets the msg.
-     *
-     * @param msg the new msg
-     */
-    public void setMsg(String msg) {
-        this.msg = msg;
-    }
-
-    /**
-     * Checks if is sent.
-     *
-     * @return true, if is sent
-     */
-    public boolean isSent() {
-        return UserList.user.getUsername().equals(sender);
-    }
-
-    /**
-     * Gets the date.
-     *
-     * @return the date
-     */
-    public Date getDate() {
-        return date;
-    }
-
-    /**
-     * Sets the date.
-     *
-     * @param date the new date
-     */
-    public void setDate(Date date) {
-        this.date = date;
-    }
-
-    /**
-     * Gets the sender.
-     *
-     * @return the sender
-     */
     public String getSender() {
         return sender;
     }
-
-    /**
-     * Sets the sender.
-     *
-     * @param sender the new sender
-     */
     public void setSender(String sender) {
         this.sender = sender;
     }
-
-    /**
-     * Gets the status.
-     *
-     * @return the status
-     */
-    public int getStatus() {
-        return status;
+    public String getDate() {
+        return date;
+    }
+    public void setDate(String date) {
+        this.date = date;
+    }
+    public String getTime() {
+        return time;
+    }
+    public void setTime(String time) {
+        this.time = time;
+    }
+    public String getContent() {
+        return content;
+    }
+    public void setContent(String content) {
+        this.content = content;
     }
 
-    /**
-     * Sets the status.
-     *
-     * @param status the new status
-     */
-    public void setStatus(int status) {
-        this.status = status;
-    }
 
 }

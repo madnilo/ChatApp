@@ -6,9 +6,9 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endColumn": 39,
-                    "endOffset": 90
+                    "endOffset": 140
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -25,9 +25,332 @@
                 "to": {
                     "startLine": 3,
                     "startColumn": 4,
-                    "startOffset": 95,
+                    "startOffset": 145,
+                    "endColumn": 60,
+                    "endOffset": 201
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 757,
+                        "endColumn": 60,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 206,
+                    "endColumn": 89,
+                    "endOffset": 291
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 89,
+                        "endOffset": 946
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 296,
+                    "endColumn": 79,
+                    "endOffset": 371
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1041,
+                        "endColumn": 79,
+                        "endOffset": 1116
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 376,
+                    "endColumn": 89,
+                    "endOffset": 461
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1121,
+                        "endColumn": 89,
+                        "endOffset": 1206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 466,
+                    "endColumn": 89,
+                    "endOffset": 551
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 951,
+                        "endColumn": 89,
+                        "endOffset": 1036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 556,
+                    "endColumn": 79,
+                    "endOffset": 631
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1211,
+                        "endColumn": 79,
+                        "endOffset": 1286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 636,
+                    "endColumn": 80,
+                    "endOffset": 712
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1371,
+                        "endColumn": 80,
+                        "endOffset": 1447
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 717,
+                    "endColumn": 79,
+                    "endOffset": 792
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1452,
+                        "endColumn": 79,
+                        "endOffset": 1527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 797,
+                    "endColumn": 79,
+                    "endOffset": 872
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1291,
+                        "endColumn": 79,
+                        "endOffset": 1366
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 877,
+                    "endColumn": 87,
+                    "endOffset": 960
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 87,
+                        "endOffset": 185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 965,
+                    "endColumn": 77,
+                    "endOffset": 1038
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 77,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1043,
+                    "endColumn": 87,
+                    "endOffset": 1126
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 356,
+                        "endColumn": 87,
+                        "endOffset": 439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1131,
+                    "endColumn": 87,
+                    "endOffset": 1214
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 190,
+                        "endColumn": 87,
+                        "endOffset": 273
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1219,
+                    "endColumn": 77,
+                    "endOffset": 1292
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 444,
+                        "endColumn": 77,
+                        "endOffset": 517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1297,
+                    "endColumn": 78,
+                    "endOffset": 1371
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 600,
+                        "endColumn": 78,
+                        "endOffset": 674
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1376,
+                    "endColumn": 77,
+                    "endOffset": 1449
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 679,
+                        "endColumn": 77,
+                        "endOffset": 752
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1454,
+                    "endColumn": 77,
+                    "endOffset": 1527
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_colors.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 522,
+                        "endColumn": 77,
+                        "endOffset": 595
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1532,
                     "endColumn": 44,
-                    "endOffset": 135
+                    "endOffset": 1572
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -42,11 +365,11 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 140,
+                    "startOffset": 1577,
                     "endColumn": 49,
-                    "endOffset": 185
+                    "endOffset": 1622
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -61,11 +384,11 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 190,
+                    "startOffset": 1627,
                     "endColumn": 52,
-                    "endOffset": 238
+                    "endOffset": 1675
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -80,11 +403,11 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 243,
+                    "startOffset": 1680,
                     "endColumn": 52,
-                    "endOffset": 291
+                    "endOffset": 1728
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -99,11 +422,11 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 296,
+                    "startOffset": 1733,
                     "endColumn": 50,
-                    "endOffset": 342
+                    "endOffset": 1779
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -118,11 +441,11 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 347,
+                    "startOffset": 1784,
                     "endColumn": 47,
-                    "endOffset": 390
+                    "endOffset": 1827
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -137,11 +460,11 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 395,
+                    "startOffset": 1832,
                     "endColumn": 39,
-                    "endOffset": 430
+                    "endOffset": 1867
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -156,11 +479,11 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 435,
+                    "startOffset": 1872,
                     "endColumn": 45,
-                    "endOffset": 476
+                    "endOffset": 1913
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\color.xml",
@@ -175,11 +498,11 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 481,
+                    "startOffset": 2788,
                     "endColumn": 39,
-                    "endOffset": 516
+                    "endOffset": 2823
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -194,11 +517,11 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 521,
+                    "startOffset": 2828,
                     "endColumn": 39,
-                    "endOffset": 556
+                    "endOffset": 2863
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -213,11 +536,11 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 561,
+                    "startOffset": 2868,
                     "endColumn": 39,
-                    "endOffset": 596
+                    "endOffset": 2903
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -232,11 +555,11 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 45,
                     "startColumn": 4,
-                    "startOffset": 601,
+                    "startOffset": 2908,
                     "endColumn": 39,
-                    "endOffset": 636
+                    "endOffset": 2943
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -251,11 +574,11 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 46,
                     "startColumn": 4,
-                    "startOffset": 641,
+                    "startOffset": 2948,
                     "endColumn": 37,
-                    "endOffset": 674
+                    "endOffset": 2981
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -270,11 +593,11 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 47,
                     "startColumn": 4,
-                    "startOffset": 679,
+                    "startOffset": 2986,
                     "endColumn": 44,
-                    "endOffset": 719
+                    "endOffset": 3026
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -289,11 +612,11 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 48,
                     "startColumn": 4,
-                    "startOffset": 724,
+                    "startOffset": 3031,
                     "endColumn": 45,
-                    "endOffset": 765
+                    "endOffset": 3072
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -308,11 +631,11 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 49,
                     "startColumn": 4,
-                    "startOffset": 770,
+                    "startOffset": 3077,
                     "endColumn": 39,
-                    "endOffset": 805
+                    "endOffset": 3112
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -327,11 +650,11 @@
             },
             {
                 "to": {
-                    "startLine": 19,
+                    "startLine": 50,
                     "startColumn": 4,
-                    "startOffset": 810,
+                    "startOffset": 3117,
                     "endColumn": 39,
-                    "endOffset": 845
+                    "endOffset": 3152
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -346,11 +669,11 @@
             },
             {
                 "to": {
-                    "startLine": 20,
+                    "startLine": 51,
                     "startColumn": 4,
-                    "startOffset": 850,
+                    "startOffset": 3157,
                     "endColumn": 39,
-                    "endOffset": 885
+                    "endOffset": 3192
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -365,11 +688,11 @@
             },
             {
                 "to": {
-                    "startLine": 21,
+                    "startLine": 52,
                     "startColumn": 4,
-                    "startOffset": 890,
+                    "startOffset": 3197,
                     "endColumn": 39,
-                    "endOffset": 925
+                    "endOffset": 3232
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -384,11 +707,11 @@
             },
             {
                 "to": {
-                    "startLine": 22,
+                    "startLine": 53,
                     "startColumn": 4,
-                    "startOffset": 930,
+                    "startOffset": 3237,
                     "endColumn": 39,
-                    "endOffset": 965
+                    "endOffset": 3272
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -403,11 +726,11 @@
             },
             {
                 "to": {
-                    "startLine": 23,
+                    "startLine": 54,
                     "startColumn": 4,
-                    "startOffset": 970,
+                    "startOffset": 3277,
                     "endColumn": 39,
-                    "endOffset": 1005
+                    "endOffset": 3312
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -422,11 +745,11 @@
             },
             {
                 "to": {
-                    "startLine": 24,
+                    "startLine": 55,
                     "startColumn": 4,
-                    "startOffset": 1010,
+                    "startOffset": 3317,
                     "endColumn": 39,
-                    "endOffset": 1045
+                    "endOffset": 3352
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -441,11 +764,11 @@
             },
             {
                 "to": {
-                    "startLine": 25,
+                    "startLine": 56,
                     "startColumn": 4,
-                    "startOffset": 1050,
+                    "startOffset": 3357,
                     "endColumn": 37,
-                    "endOffset": 1083
+                    "endOffset": 3390
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\dimens.xml",
@@ -460,68 +783,106 @@
             },
             {
                 "to": {
-                    "startLine": 26,
+                    "startLine": 57,
                     "startColumn": 4,
-                    "startOffset": 1088,
+                    "startOffset": 3395,
+                    "endColumn": 66,
+                    "endOffset": 3457
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\version.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 66,
+                        "endOffset": 117
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 3462,
+                    "endColumn": 45,
+                    "endOffset": 3503
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 246,
+                        "endColumn": 45,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 3508,
                     "endColumn": 52,
-                    "endOffset": 1136
+                    "endOffset": 3556
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 27,
+                        "startLine": 31,
                         "startColumn": 0,
-                        "startOffset": 1157,
+                        "startOffset": 1366,
                         "endColumn": 48,
-                        "endOffset": 1205
+                        "endOffset": 1414
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 27,
+                    "startLine": 60,
                     "startColumn": 4,
-                    "startOffset": 1141,
-                    "endColumn": 53,
-                    "endOffset": 1190
+                    "startOffset": 3561,
+                    "endColumn": 49,
+                    "endOffset": 3606
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 22,
+                        "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 826,
-                        "endColumn": 53,
-                        "endOffset": 875
+                        "startOffset": 1030,
+                        "endColumn": 49,
+                        "endOffset": 1075
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 28,
+                    "startLine": 61,
                     "startColumn": 4,
-                    "startOffset": 1195,
-                    "endColumn": 47,
-                    "endOffset": 1238
+                    "startOffset": 3611,
+                    "endColumn": 56,
+                    "endOffset": 3663
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
-                        "startLine": 17,
+                        "startLine": 21,
                         "startColumn": 4,
-                        "startOffset": 617,
-                        "endColumn": 47,
-                        "endOffset": 660
+                        "startOffset": 805,
+                        "endColumn": 56,
+                        "endOffset": 857
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 29,
+                    "startLine": 62,
                     "startColumn": 4,
-                    "startOffset": 1243,
-                    "endColumn": 42,
-                    "endOffset": 1281
+                    "startOffset": 3668,
+                    "endColumn": 45,
+                    "endOffset": 3709
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
@@ -529,399 +890,1045 @@
                         "startLine": 3,
                         "startColumn": 4,
                         "startOffset": 56,
-                        "endColumn": 42,
-                        "endOffset": 94
+                        "endColumn": 45,
+                        "endOffset": 97
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 30,
+                    "startLine": 63,
                     "startColumn": 4,
-                    "startOffset": 1286,
-                    "endColumn": 46,
-                    "endOffset": 1328
+                    "startOffset": 3714,
+                    "endColumn": 91,
+                    "endOffset": 3801
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\auth_strings.xml",
                     "position": {
-                        "startLine": 7,
-                        "startColumn": 0,
-                        "startOffset": 195,
-                        "endColumn": 42,
-                        "endOffset": 237
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 31,
-                    "startColumn": 4,
-                    "startOffset": 1333,
-                    "endColumn": 44,
-                    "endOffset": 1373
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 0,
-                        "startOffset": 154,
-                        "endColumn": 40,
-                        "endOffset": 194
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 32,
-                    "startColumn": 4,
-                    "startOffset": 1378,
-                    "endColumn": 37,
-                    "endOffset": 1411
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 20,
+                        "startLine": 5,
                         "startColumn": 4,
-                        "startOffset": 742,
-                        "endColumn": 37,
-                        "endOffset": 775
+                        "startOffset": 253,
+                        "endColumn": 91,
+                        "endOffset": 340
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 33,
+                    "startLine": 64,
                     "startColumn": 4,
-                    "startOffset": 1416,
-                    "endColumn": 39,
-                    "endOffset": 1451
+                    "startOffset": 3806,
+                    "endColumn": 87,
+                    "endOffset": 3889
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\auth_strings.xml",
                     "position": {
-                        "startLine": 10,
+                        "startLine": 3,
                         "startColumn": 4,
-                        "startOffset": 281,
-                        "endColumn": 39,
-                        "endOffset": 316
+                        "startOffset": 109,
+                        "endColumn": 87,
+                        "endOffset": 192
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 34,
+                    "startLine": 65,
                     "startColumn": 4,
-                    "startOffset": 1456,
-                    "endColumn": 72,
-                    "endOffset": 1524
+                    "startOffset": 3894,
+                    "endColumn": 231,
+                    "endOffset": 4121
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
-                        "startLine": 23,
+                        "startLine": 78,
                         "startColumn": 4,
-                        "startOffset": 880,
-                        "endColumn": 72,
-                        "endOffset": 948
+                        "startOffset": 6029,
+                        "endColumn": 235,
+                        "endOffset": 6260
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 35,
+                    "startLine": 66,
                     "startColumn": 4,
-                    "startOffset": 1529,
-                    "endColumn": 65,
-                    "endOffset": 1590
+                    "startOffset": 4126,
+                    "endColumn": 125,
+                    "endOffset": 4247
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
-                        "startLine": 25,
+                        "startLine": 31,
                         "startColumn": 4,
-                        "startOffset": 1021,
-                        "endColumn": 65,
-                        "endOffset": 1082
+                        "startOffset": 2382,
+                        "endColumn": 125,
+                        "endOffset": 2503
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 36,
+                    "startLine": 67,
                     "startColumn": 4,
-                    "startOffset": 1595,
-                    "endColumn": 67,
-                    "endOffset": 1658
+                    "startOffset": 4252,
+                    "endColumn": 180,
+                    "endOffset": 4428
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 24,
-                        "startColumn": 4,
-                        "startOffset": 953,
-                        "endColumn": 67,
-                        "endOffset": 1016
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 37,
-                    "startColumn": 4,
-                    "startOffset": 1663,
-                    "endColumn": 73,
-                    "endOffset": 1732
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
-                        "startOffset": 1087,
-                        "endColumn": 73,
-                        "endOffset": 1156
+                        "startOffset": 1986,
+                        "endColumn": 184,
+                        "endOffset": 2166
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 38,
+                    "startLine": 68,
                     "startColumn": 4,
-                    "startOffset": 1737,
-                    "endColumn": 69,
-                    "endOffset": 1802
+                    "startOffset": 4433,
+                    "endColumn": 124,
+                    "endOffset": 4553
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
-                        "startLine": 15,
+                        "startLine": 22,
                         "startColumn": 4,
-                        "startOffset": 501,
-                        "endColumn": 69,
-                        "endOffset": 566
+                        "startOffset": 1710,
+                        "endColumn": 124,
+                        "endOffset": 1830
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 39,
+                    "startLine": 69,
                     "startColumn": 4,
-                    "startOffset": 1807,
-                    "endColumn": 41,
-                    "endOffset": 1844
+                    "startOffset": 4558,
+                    "endColumn": 123,
+                    "endOffset": 4677
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 459,
-                        "endColumn": 41,
-                        "endOffset": 496
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 40,
-                    "startColumn": 4,
-                    "startOffset": 1849,
-                    "endColumn": 70,
-                    "endOffset": 1915
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 28,
-                        "startColumn": 0,
-                        "startOffset": 1206,
-                        "endColumn": 66,
-                        "endOffset": 1272
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 41,
-                    "startColumn": 4,
-                    "startOffset": 1920,
-                    "endColumn": 45,
-                    "endOffset": 1961
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 571,
-                        "endColumn": 45,
-                        "endOffset": 612
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 42,
-                    "startColumn": 4,
-                    "startOffset": 1966,
-                    "endColumn": 45,
-                    "endOffset": 2007
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 21,
-                        "startColumn": 4,
-                        "startOffset": 780,
-                        "endColumn": 45,
-                        "endOffset": 821
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 43,
-                    "startColumn": 4,
-                    "startOffset": 2012,
-                    "endColumn": 33,
-                    "endOffset": 2041
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 247,
-                        "endColumn": 33,
-                        "endOffset": 276
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 44,
-                    "startColumn": 4,
-                    "startOffset": 2046,
-                    "endColumn": 45,
-                    "endOffset": 2087
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 367,
-                        "endColumn": 45,
-                        "endOffset": 408
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 45,
-                    "startColumn": 4,
-                    "startOffset": 2092,
-                    "endColumn": 45,
-                    "endOffset": 2133
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 413,
-                        "endColumn": 45,
-                        "endOffset": 454
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 46,
-                    "startColumn": 4,
-                    "startOffset": 2138,
-                    "endColumn": 41,
-                    "endOffset": 2175
-                },
-                "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
-                        "startOffset": 665,
-                        "endColumn": 41,
-                        "endOffset": 702
+                        "startOffset": 1439,
+                        "endColumn": 123,
+                        "endOffset": 1558
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 70,
                     "startColumn": 4,
-                    "startOffset": 2180,
-                    "endColumn": 34,
-                    "endOffset": 2210
+                    "startOffset": 4682,
+                    "endColumn": 212,
+                    "endOffset": 4890
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
                     "position": {
-                        "startLine": 19,
+                        "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 707,
-                        "endColumn": 34,
-                        "endOffset": 737
+                        "startOffset": 742,
+                        "endColumn": 216,
+                        "endOffset": 954
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 71,
                     "startColumn": 4,
-                    "startOffset": 2215,
-                    "endColumn": 49,
-                    "endOffset": 2260
+                    "startOffset": 4895,
+                    "endColumn": 214,
+                    "endOffset": 5105
                 },
                 "from": {
-                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1124,
+                        "endColumn": 218,
+                        "endOffset": 1338
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 5110,
+                    "endColumn": 122,
+                    "endOffset": 5228
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 122,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 5233,
+                    "endColumn": 164,
+                    "endOffset": 5393
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 4775,
+                        "endColumn": 164,
+                        "endOffset": 4935
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 74,
+                    "startColumn": 4,
+                    "startOffset": 5398,
+                    "endColumn": 93,
+                    "endOffset": 5487
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 4560,
+                        "endColumn": 93,
+                        "endOffset": 4649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 75,
+                    "startColumn": 4,
+                    "startOffset": 5492,
+                    "endColumn": 140,
+                    "endOffset": 5628
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 4,
+                        "startOffset": 4302,
+                        "endColumn": 140,
+                        "endOffset": 4438
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 76,
+                    "startColumn": 4,
+                    "startOffset": 5633,
+                    "endColumn": 89,
+                    "endOffset": 5718
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 4,
+                        "startOffset": 4099,
+                        "endColumn": 89,
+                        "endOffset": 4184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 77,
+                    "startColumn": 4,
+                    "startOffset": 5723,
+                    "endColumn": 102,
+                    "endOffset": 5821
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 205,
+                        "endColumn": 102,
+                        "endOffset": 303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 78,
+                    "startColumn": 4,
+                    "startOffset": 5826,
+                    "endColumn": 142,
+                    "endOffset": 5964
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 90,
+                        "startColumn": 4,
+                        "startOffset": 7134,
+                        "endColumn": 142,
+                        "endOffset": 7272
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 79,
+                    "startColumn": 4,
+                    "startOffset": 5969,
+                    "endColumn": 99,
+                    "endOffset": 6064
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 4,
+                        "startOffset": 6890,
+                        "endColumn": 99,
+                        "endOffset": 6985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 80,
+                    "startColumn": 4,
+                    "startOffset": 6069,
+                    "endColumn": 150,
+                    "endOffset": 6215
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 4,
+                        "startOffset": 6599,
+                        "endColumn": 150,
+                        "endOffset": 6745
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 81,
+                    "startColumn": 4,
+                    "startOffset": 6220,
+                    "endColumn": 91,
+                    "endOffset": 6307
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 6384,
+                        "endColumn": 91,
+                        "endOffset": 6471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 82,
+                    "startColumn": 4,
+                    "startOffset": 6312,
+                    "endColumn": 218,
+                    "endOffset": 6526
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-basement\\8.4.0\\res\\values\\common_strings.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
-                        "startOffset": 99,
-                        "endColumn": 49,
-                        "endOffset": 144
+                        "startOffset": 242,
+                        "endColumn": 222,
+                        "endOffset": 460
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 2265,
-                    "endColumn": 45,
-                    "endOffset": 2306
+                    "startOffset": 6531,
+                    "endColumn": 218,
+                    "endOffset": 6745
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 5305,
+                        "endColumn": 222,
+                        "endOffset": 5523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 84,
+                    "startColumn": 4,
+                    "startOffset": 6750,
+                    "endColumn": 94,
+                    "endOffset": 6840
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 5073,
+                        "endColumn": 94,
+                        "endOffset": 5163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 85,
+                    "startColumn": 4,
+                    "startOffset": 6845,
+                    "endColumn": 104,
+                    "endOffset": 6945
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 5622,
+                        "endColumn": 104,
+                        "endOffset": 5722
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 86,
+                    "startColumn": 4,
+                    "startOffset": 6950,
+                    "endColumn": 180,
+                    "endOffset": 7126
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 2929,
+                        "endColumn": 184,
+                        "endOffset": 3109
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 87,
+                    "startColumn": 4,
+                    "startOffset": 7131,
+                    "endColumn": 124,
+                    "endOffset": 7251
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 4,
+                        "startOffset": 2654,
+                        "endColumn": 124,
+                        "endOffset": 2774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 88,
+                    "startColumn": 4,
+                    "startOffset": 7256,
+                    "endColumn": 174,
+                    "endOffset": 7426
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 4,
+                        "startOffset": 3811,
+                        "endColumn": 178,
+                        "endOffset": 3985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 89,
+                    "startColumn": 4,
+                    "startOffset": 7431,
+                    "endColumn": 104,
+                    "endOffset": 7531
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 4,
+                        "startOffset": 3572,
+                        "endColumn": 104,
+                        "endOffset": 3672
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 90,
+                    "startColumn": 4,
+                    "startOffset": 7536,
+                    "endColumn": 147,
+                    "endOffset": 7679
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 4,
+                        "startOffset": 3294,
+                        "endColumn": 147,
+                        "endOffset": 3437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 91,
+                    "startColumn": 4,
+                    "startOffset": 7684,
+                    "endColumn": 62,
+                    "endOffset": 7742
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 75,
+                        "startColumn": 4,
+                        "startOffset": 5822,
+                        "endColumn": 62,
+                        "endOffset": 5880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 92,
+                    "startColumn": 4,
+                    "startOffset": 7747,
+                    "endColumn": 61,
+                    "endOffset": 7804
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 4,
+                        "startOffset": 7327,
+                        "endColumn": 61,
+                        "endOffset": 7384
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 93,
+                    "startColumn": 4,
+                    "startOffset": 7809,
+                    "endColumn": 78,
+                    "endOffset": 7883
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\8.4.0\\res\\values\\base_strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 4,
+                        "startOffset": 7449,
+                        "endColumn": 78,
+                        "endOffset": 7523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 94,
+                    "startColumn": 4,
+                    "startOffset": 7888,
+                    "endColumn": 56,
+                    "endOffset": 7940
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
-                        "startOffset": 321,
-                        "endColumn": 45,
-                        "endOffset": 362
+                        "startOffset": 345,
+                        "endColumn": 56,
+                        "endOffset": 397
                     }
                 }
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 2311,
-                    "endLine": 51,
+                    "startOffset": 7945,
+                    "endColumn": 46,
+                    "endOffset": 7987
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 198,
+                        "endColumn": 42,
+                        "endOffset": 240
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 96,
+                    "startColumn": 4,
+                    "startOffset": 7992,
+                    "endColumn": 44,
+                    "endOffset": 8032
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 157,
+                        "endColumn": 40,
+                        "endOffset": 197
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 97,
+                    "startColumn": 4,
+                    "startOffset": 8037,
+                    "endColumn": 39,
+                    "endOffset": 8072
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 943,
+                        "endColumn": 39,
+                        "endOffset": 978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 98,
+                    "startColumn": 4,
+                    "startOffset": 8077,
+                    "endColumn": 39,
+                    "endOffset": 8112
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 475,
+                        "endColumn": 39,
+                        "endOffset": 510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 99,
+                    "startColumn": 4,
+                    "startOffset": 8117,
+                    "endColumn": 81,
+                    "endOffset": 8194
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 1080,
+                        "endColumn": 81,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 100,
+                    "startColumn": 4,
+                    "startOffset": 8199,
+                    "endColumn": 65,
+                    "endOffset": 8260
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1230,
+                        "endColumn": 65,
+                        "endOffset": 1291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 101,
+                    "startColumn": 4,
+                    "startOffset": 8265,
+                    "endColumn": 67,
+                    "endOffset": 8328
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 67,
+                        "endOffset": 1225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 102,
+                    "startColumn": 4,
+                    "startOffset": 8333,
+                    "endColumn": 73,
+                    "endOffset": 8402
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1296,
+                        "endColumn": 73,
+                        "endOffset": 1365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 103,
+                    "startColumn": 4,
+                    "startOffset": 8407,
+                    "endColumn": 58,
+                    "endOffset": 8461
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 692,
+                        "endColumn": 58,
+                        "endOffset": 746
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 104,
+                    "startColumn": 4,
+                    "startOffset": 8466,
+                    "endColumn": 41,
+                    "endOffset": 8503
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 41,
+                        "endOffset": 687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 105,
+                    "startColumn": 4,
+                    "startOffset": 8508,
+                    "endColumn": 52,
+                    "endOffset": 8556
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 292,
+                        "endColumn": 52,
+                        "endOffset": 340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 106,
+                    "startColumn": 4,
+                    "startOffset": 8561,
+                    "endColumn": 72,
+                    "endOffset": 8629
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 0,
+                        "startOffset": 1415,
+                        "endColumn": 68,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 107,
+                    "startColumn": 4,
+                    "startOffset": 8634,
+                    "endColumn": 53,
+                    "endOffset": 8683
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 751,
+                        "endColumn": 53,
+                        "endOffset": 800
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 108,
+                    "startColumn": 4,
+                    "startOffset": 8688,
+                    "endColumn": 46,
+                    "endOffset": 8730
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 983,
+                        "endColumn": 46,
+                        "endOffset": 1025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 109,
+                    "startColumn": 4,
+                    "startOffset": 8735,
+                    "endColumn": 33,
+                    "endOffset": 8764
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 441,
+                        "endColumn": 33,
+                        "endOffset": 470
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 110,
+                    "startColumn": 4,
+                    "startOffset": 8769,
+                    "endColumn": 42,
+                    "endOffset": 8807
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 560,
+                        "endColumn": 42,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 111,
+                    "startColumn": 4,
+                    "startOffset": 8812,
+                    "endColumn": 46,
+                    "endOffset": 8854
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 603,
+                        "endColumn": 46,
+                        "endOffset": 645
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 112,
+                    "startColumn": 4,
+                    "startOffset": 8859,
+                    "endColumn": 43,
+                    "endOffset": 8898
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 43,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 113,
+                    "startColumn": 4,
+                    "startOffset": 8903,
+                    "endColumn": 36,
+                    "endOffset": 8935
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 36,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 114,
+                    "startColumn": 4,
+                    "startOffset": 8940,
+                    "endColumn": 49,
+                    "endOffset": 8985
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 102,
+                        "endColumn": 49,
+                        "endOffset": 147
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 115,
+                    "startColumn": 4,
+                    "startOffset": 8990,
+                    "endColumn": 44,
+                    "endOffset": 9030
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 515,
+                        "endColumn": 44,
+                        "endOffset": 555
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 116,
+                    "startColumn": 4,
+                    "startOffset": 9035,
+                    "endColumn": 38,
+                    "endOffset": 9069
+                },
+                "from": {
+                    "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 402,
+                        "endColumn": 38,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 117,
+                    "startColumn": 4,
+                    "startOffset": 9074,
+                    "endLine": 118,
                     "endColumn": 12,
-                    "endOffset": 2399
+                    "endOffset": 9162
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -937,12 +1944,12 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 2404,
-                    "endLine": 54,
+                    "startOffset": 9167,
+                    "endLine": 121,
                     "endColumn": 12,
-                    "endOffset": 2537
+                    "endOffset": 9300
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -958,12 +1965,12 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 2542,
-                    "endLine": 58,
+                    "startOffset": 9305,
+                    "endLine": 125,
                     "endColumn": 12,
-                    "endOffset": 2714
+                    "endOffset": 9477
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -979,12 +1986,12 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 2719,
-                    "endLine": 66,
+                    "startOffset": 9482,
+                    "endLine": 133,
                     "endColumn": 12,
-                    "endOffset": 3170
+                    "endOffset": 9933
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -1000,12 +2007,12 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 134,
                     "startColumn": 4,
-                    "startOffset": 3175,
-                    "endLine": 71,
+                    "startOffset": 9938,
+                    "endLine": 138,
                     "endColumn": 13,
-                    "endOffset": 3432
+                    "endOffset": 10195
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -1021,12 +2028,12 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 139,
                     "startColumn": 4,
-                    "startOffset": 3437,
-                    "endLine": 80,
+                    "startOffset": 10200,
+                    "endLine": 147,
                     "endColumn": 13,
-                    "endOffset": 3964
+                    "endOffset": 10727
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -1042,12 +2049,12 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 148,
                     "startColumn": 4,
-                    "startOffset": 3969,
-                    "endLine": 88,
+                    "startOffset": 10732,
+                    "endLine": 155,
                     "endColumn": 12,
-                    "endOffset": 4426
+                    "endOffset": 11189
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",
@@ -1063,12 +2070,12 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 156,
                     "startColumn": 4,
-                    "startOffset": 4431,
-                    "endLine": 101,
+                    "startOffset": 11194,
+                    "endLine": 168,
                     "endColumn": 12,
-                    "endOffset": 5188
+                    "endOffset": 11951
                 },
                 "from": {
                     "file": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\values\\styles.xml",

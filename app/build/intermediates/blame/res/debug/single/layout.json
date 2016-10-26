@@ -8,6 +8,10 @@
         "source": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\layout\\chat.xml"
     },
     {
+        "merged": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\rabbitmq.xml",
+        "source": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\layout\\rabbitmq.xml"
+    },
+    {
         "merged": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
         "source": "C:\\Users\\danil\\StudioProjects\\Chat\\app\\src\\main\\res\\layout\\login.xml"
     },

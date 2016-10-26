@@ -1,4 +1,7 @@
-#Sun Oct 23 11:30:47 BRST 2016
-base.0=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
-renamed.0=classes.dex
-file.0=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
+#Wed Oct 26 09:15:28 BRST 2016
+base.0=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_159edbec6e79302c87f9f3ed5db937ec7f06d483
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_debb297414446c2993bc05bdd4c5c95443b339d8\\classes.dex
+base.1=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_debb297414446c2993bc05bdd4c5c95443b339d8
+file.0=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_159edbec6e79302c87f9f3ed5db937ec7f06d483\\classes.dex
