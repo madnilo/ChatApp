@@ -1,4 +1,4 @@
-#Wed Oct 26 09:15:28 BRST 2016
+#Wed Oct 26 17:23:43 BRST 2016
 base.0=C\:\\Users\\danil\\StudioProjects\\Chat\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_159edbec6e79302c87f9f3ed5db937ec7f06d483
 renamed.1=classes.dex
 renamed.0=classes2.dex

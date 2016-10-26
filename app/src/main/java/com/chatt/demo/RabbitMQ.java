@@ -7,6 +7,7 @@ import android.os.StrictMode;
 import android.view.View;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 
 import com.chatt.demo.custom.CustomActivity;
 import com.chatt.demo.model.Message;
@@ -14,15 +15,20 @@ import com.google.android.gms.appindexing.Action;
 import com.google.android.gms.appindexing.AppIndex;
 import com.google.android.gms.appindexing.Thing;
 import com.google.android.gms.common.api.GoogleApiClient;
+import com.rabbitmq.client.AMQP;
 import com.rabbitmq.client.Channel;
 import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.ConnectionFactory;
+import com.rabbitmq.client.Consumer;
+import com.rabbitmq.client.DefaultConsumer;
+import com.rabbitmq.client.Envelope;
 
 import org.simpleframework.xml.Serializer;
 import org.simpleframework.xml.core.Persister;
 
 import java.io.File;
 import java.io.IOException;
+import java.io.StringReader;
 import java.io.StringWriter;
 import java.util.Date;
 import java.util.concurrent.TimeoutException;
@@ -71,6 +77,30 @@ public class RabbitMQ extends CustomActivity {
             e.printStackTrace();
         }
 
+
+        Consumer consumer = new DefaultConsumer(channel) {
+            @Override
+            public void handleDelivery(String consumerTag, Envelope envelope, AMQP.BasicProperties properties,
+                                       byte[] body) throws IOException {
+                Message msg = new Message();
+                String xmlMessage = new String(body, "UTF-8");
+                try {
+                    msg = xmlToMessage(xmlMessage);
+                } catch (Exception e) {
+                    e.printStackTrace();
+                }
+                System.out.println("("+ msg.getDate() +" às "+ msg.getTime() +") " + msg.getSender() + " diz: " + msg.getContent());
+                TextView textView = (TextView) findViewById(R.id.recvMsgs);
+                textView.setText("("+ msg.getDate() +" às "+ msg.getTime() +") " + msg.getSender() + " diz: " + msg.getContent());
+            }
+        };
+        try {
+            channel.basicConsume(user, true, consumer);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+
         setContentView(R.layout.rabbitmq);
 
         setTouchNClick(R.id.enviar);
@@ -100,11 +130,16 @@ public class RabbitMQ extends CustomActivity {
 
     private static String messageToXML(Message msg) throws Exception {
         Serializer serializer = new Persister();
-        File result = new File("example.xml");
         StringWriter resultado = new StringWriter();
         serializer.write(msg, resultado);
         return resultado.toString();
 
+    }
+
+    private static Message xmlToMessage(String xml) throws Exception {
+        Serializer serializer = new Persister();
+        StringReader reader = new StringReader(xml);
+        return serializer.read(Message.class, reader);
     }
 
 
